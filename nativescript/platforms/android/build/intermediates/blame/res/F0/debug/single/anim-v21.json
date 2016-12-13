@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\NativeScript\\HelloAngular\\nativescript\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "D:\\NativeScript\\HelloAngular\\nativescript\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\HelloAngular\\nativescript\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "D:\\NativeScript\\HelloAngular\\nativescript\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\HelloAngular\\nativescript\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "D:\\NativeScript\\HelloAngular\\nativescript\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    }
+]

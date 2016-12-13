@@ -1,0 +1,1 @@
+D:\NativeScript\HelloAngular\nativescript\platforms\android\src\main\assets\app\app\home\home.component.js
